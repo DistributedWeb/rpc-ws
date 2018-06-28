@@ -1,6 +1,6 @@
 [![dWeb Core](https://raw.githubusercontent.com/DistributedWeb/dweb-design/master/repo-headers/dweb-repo-header.png)](https://dwebs.io)<br>
 
-# @dwcore/rpc-ws
+# @dwebs/rpc-ws
 
 ## Official Documentation
 
